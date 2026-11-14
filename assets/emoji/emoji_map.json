@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "size": 128,
+  "emoji": {
+    "ghost_quy_thu": {
+      "file": "le_quy/ghost_quy_thu.png",
+      "category": "le_quy",
+      "label": "Quỷ Thủ",
+      "fallback": "✋"
+    },
+    "ghost_quy_anh": {
+      "file": "le_quy/ghost_quy_anh.png",
+      "category": "le_quy",
+      "label": "Quỷ Ảnh",
+      "fallback": "👤"
+    },
+    "ghost_quy_nhan": {
+      "file": "le_quy/ghost_quy_nhan.png",
+      "category": "le_quy",
+      "label": "Quỷ Nhãn",
+      "fallback": "👁"
+    },
+    "ghost_quy_quan_tai": {
+      "file": "le_quy/ghost_quy_quan_tai.png",
+      "category": "le_quy",
+      "label": "Quỷ Quan Tài",
+      "fallback": "⚰"
+    },
+    "ghost_quy_mon": {
+      "file": "le_quy/ghost_quy_mon.png",
+      "category": "le_quy",
+      "label": "Quỷ Môn",
+      "fallback": "🚪"
+    },
+    "ghost_quy_vuc": {
+      "file": "le_quy/ghost_quy_vuc.png",
+      "category": "le_quy",
+      "label": "Quỷ Vực",
+      "fallback": "🌀"
+    },
+    "char_ngu_quy_gia": {
+      "file": "nhan_vat/char_ngu_quy_gia.png",
+      "category": "nhan_vat",
+      "label": "Ngự Quỷ Giả",
+      "fallback": "🧙"
+    },
+    "char_nguoi_thuong": {
+      "file": "nhan_vat/char_nguoi_thuong.png",
+      "category": "nhan_vat",
+      "label": "Người Thường",
+      "fallback": "🙂"
+    },
+    "char_nhiem_linh_di": {
+      "file": "nhan_vat/char_nhiem_linh_di.png",
+      "category": "nhan_vat",
+      "label": "Nhiễm Linh Dị",
+      "fallback": "🧟"
+    },
+    "char_mat_kiem_soat": {
+      "file": "nhan_vat/char_mat_kiem_soat.png",
+      "category": "nhan_vat",
+      "label": "Mất Kiểm Soát",
+      "fallback": "😱"
+    },
+    "item_linh_di_vat": {
+      "file": "vat_pham/item_linh_di_vat.png",
+      "category": "vat_pham",
+      "label": "Linh Dị Vật (Gương Nứt)",
+      "fallback": "🪞"
+    },
+    "item_quan_tai": {
+      "file": "vat_pham/item_quan_tai.png",
+      "category": "vat_pham",
+      "label": "Quan Tài",
+      "fallback": "⚰"
+    },
+    "item_den_dau": {
+      "file": "vat_pham/item_den_dau.png",
+      "category": "vat_pham",
+      "label": "Đèn Dầu",
+      "fallback": "🪔"
+    },
+    "item_tien_co": {
+      "file": "vat_pham/item_tien_co.png",
+      "category": "vat_pham",
+      "label": "Tiền Cổ",
+      "fallback": "🪙"
+    },
+    "item_thu_linh_di": {
+      "file": "vat_pham/item_thu_linh_di.png",
+      "category": "vat_pham",
+      "label": "Thư Linh Dị",
+      "fallback": "✉"
+    },
+    "item_vat_phong_an": {
+      "file": "vat_pham/item_vat_phong_an.png",
+      "category": "vat_pham",
+      "label": "Vật Chứa Vàng (Phong Ấn)",
+      "fallback": "🏺"
+    },
+    "item_hinh_nhan": {
+      "file": "vat_pham/item_hinh_nhan.png",
+      "category": "vat_pham",
+      "label": "Hình Nhân Thế Mạng",
+      "fallback": "🧍"
+    },
+    "ui_sinh_ton": {
+      "file": "giao_dien/ui_sinh_ton.png",
+      "category": "giao_dien",
+      "label": "Sinh Tồn",
+      "fallback": "❤"
+    },
+    "ui_nguy_hiem": {
+      "file": "giao_dien/ui_nguy_hiem.png",
+      "category": "giao_dien",
+      "label": "Nguy Hiểm",
+      "fallback": "⚠"
+    },
+    "ui_nhiem_vu": {
+      "file": "giao_dien/ui_nhiem_vu.png",
+      "category": "giao_dien",
+      "label": "Nhiệm Vụ",
+      "fallback": "📜"
+    },
+    "ui_phong_an": {
+      "file": "giao_dien/ui_phong_an.png",
+      "category": "giao_dien",
+      "label": "Phong Ấn",
+      "fallback": "🔒"
+    },
+    "ui_kham_pha": {
+      "file": "giao_dien/ui_kham_pha.png",
+      "category": "giao_dien",
+      "label": "Khám Phá",
+      "fallback": "🔍"
+    },
+    "ui_chien_dau": {
+      "file": "giao_dien/ui_chien_dau.png",
+      "category": "giao_dien",
+      "label": "Chiến Đấu",
+      "fallback": "⚔"
+    },
+    "ui_thanh_cong": {
+      "file": "giao_dien/ui_thanh_cong.png",
+      "category": "giao_dien",
+      "label": "Thành Công",
+      "fallback": "✅"
+    },
+    "ui_that_bai": {
+      "file": "giao_dien/ui_that_bai.png",
+      "category": "giao_dien",
+      "label": "Thất Bại",
+      "fallback": "❌"
+    },
+    "loc_benh_vien": {
+      "file": "dia_diem/loc_benh_vien.png",
+      "category": "dia_diem",
+      "label": "Bệnh Viện",
+      "fallback": "🏥"
+    },
+    "loc_truong_hoc": {
+      "file": "dia_diem/loc_truong_hoc.png",
+      "category": "dia_diem",
+      "label": "Trường Học",
+      "fallback": "🏫"
+    },
+    "loc_nghia_trang": {
+      "file": "dia_diem/loc_nghia_trang.png",
+      "category": "dia_diem",
+      "label": "Nghĩa Trang",
+      "fallback": "🪦"
+    },
+    "loc_lang_hoang": {
+      "file": "dia_diem/loc_lang_hoang.png",
+      "category": "dia_diem",
+      "label": "Làng Bỏ Hoang",
+      "fallback": "🏚"
+    },
+    "loc_khu_dan_cu": {
+      "file": "dia_diem/loc_khu_dan_cu.png",
+      "category": "dia_diem",
+      "label": "Khu Dân Cư",
+      "fallback": "🏢"
+    },
+    "loc_thanh_pho": {
+      "file": "dia_diem/loc_thanh_pho.png",
+      "category": "dia_diem",
+      "label": "Thành Phố",
+      "fallback": "🏙"
+    },
+    "bar_hp": {
+      "file": "thanh_tien_do/bar_hp.png",
+      "category": "thanh_tien_do",
+      "label": "Thanh Thể Chất",
+      "fallback": "🟥"
+    },
+    "bar_mind": {
+      "file": "thanh_tien_do/bar_mind.png",
+      "category": "thanh_tien_do",
+      "label": "Thanh Tinh Thần",
+      "fallback": "🟪"
+    },
+    "bar_ghost": {
+      "file": "thanh_tien_do/bar_ghost.png",
+      "category": "thanh_tien_do",
+      "label": "Thanh Phục Tô",
+      "fallback": "🟩"
+    },
+    "bar_empty": {
+      "file": "thanh_tien_do/bar_empty.png",
+      "category": "thanh_tien_do",
+      "label": "Thanh Rỗng",
+      "fallback": "⬛"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "token": "",
+  "owner_ids": [123456789012345678],
+  "db_path": "storage/than_bi_phuc_to.db",
+  "backup_dir": "backups",
+  "backup_keep": 7,
+  "backup_interval_hours": 6,
+  "guild_id": null,
+  "auto_upload_emoji": true,
+  "emoji_upload_delay": 0.3,
+  "log_dir": "logs",
+  "tick_seconds": 60
+}
